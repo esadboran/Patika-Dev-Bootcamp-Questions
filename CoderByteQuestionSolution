@@ -1,0 +1,50 @@
+# CoderByte Equivalent Keypresses Question1
+
+def EquivalentKeypresses(strArr):
+    newlist = []
+    newlist2 = []
+
+    for i in strArr[0]:
+        if i.isalpha():
+            if i == "B":
+                if len(newlist) > 0:
+                    newlist.pop()
+            else:
+                newlist.append(i)
+
+    for i in strArr[1]:
+        if i.isalpha():
+            if i == "B":
+                if len(newlist2) > 0:
+                    newlist2.pop()
+            else:
+                newlist2.append(i)
+
+    return newlist == newlist2
+
+
+# keep this function call here
+print(EquivalentKeypresses(input()))
+
+
+
+# CoderByte Different Cases Question1
+
+def DifferentCases(strParam):
+  str2 = ""
+  finalWord = []
+
+  for char in strParam:
+    if char.isalpha():
+      str2 += char
+    else:
+      str2 += " "
+  for word in str2.split():
+    word = word.replace(word[0],word[0].upper())
+    word = word.replace(word[1:len(word)],word[1:len(word)].lower())
+    finalWord.append(word)
+  # code goes here
+  return "".join(finalWord)
+
+# keep this function call here
+print(DifferentCases(input()))
