@@ -1,0 +1,14 @@
+def reverse_list(liste):
+    reversed_list = []
+    for i in liste:
+        i.reverse()
+        reversed_list.append(i)
+    reversed_list.reverse()
+    return reversed_list
+
+
+
+liste = [[1, 2], [3, 4], [5, 6, 7]]
+
+reversed_list = reverse_list(liste)
+print(reversed_list)
