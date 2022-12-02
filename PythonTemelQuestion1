@@ -1,0 +1,14 @@
+def flatten(x,out):
+
+    for i in x:
+        if isinstance(i, list):
+            flatten(i,out)
+        else:
+            out.append(i)
+    return out
+
+
+input = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
+
+out = flatten(input,[])
+print(out)
