@@ -6,18 +6,17 @@ Makine öğrenimi nedir?
 Makine öğrenimi, genel olarak bir makinenin akıllı insan davranışını taklit etme yeteneği olarak tanımlanan yapay zekanın bir alt alanıdır. Yapay zeka sistemleri, karmaşık görevleri, insanların sorunları nasıl çözdüğüne benzer bir şekilde gerçekleştirmek için kullanılır.
 
 Makine Öğrenmesinin Sosyal medyaya etkisini birkaç madde halinde anlatmam gerekirse şöyle başlıyabilirim . 
+
 1.Görüntü ve Video İşleme
+
 Makine öğrenimi tekniklerini sosyal medyada uygulamanın en iyi yollarından biri görselliktir. Sosyal medya platformları, makine öğrenimi algoritmalarını kullanarak görüntüleri herhangi bir yardımcı metin olmadan iyileştirerek , kullanıcı performansını arttırmak için uğraşır.
- 
 Bu, sosyal medya platformlarını şirketlerin ve reklam profesyonellerinin aranan görselleri ve sorguları araması için kullanışlı hale getirir. örneğin istatistiklere göre twitter kullanıcılarının %82'si video içeriği izliyor ve yaklaşık %90'ı elde tutulan bir ekranda izliyor. Bu nedenle, görsel deneyimi daha da geliştirmek için Twitter, görsel iyileştirme için makine öğrenimi teknikleri geliştiren Londra merkezli bir teknoloji firması olan Magic Pony Technology’yi satın aldığını duyurdu. Bu teknoloji, Twitter’ın video ve görüntüleri otomatik olarak keskinleştirmesine yardımcı olacak.
 
 
 2.Spam ve Haber İçeriğini Filtreleme
+
 Teknoloji toplumu olduğumuz için hayatımıza giren sosyal medyanın iyi kullanıcıları kadar kötü kullanıcılarının da olduğunu biliyoruz. Mevcut sosyal medya sitelerinin bu durumdan büyük zarar gördüğü düşünüldüğünde sosyal medya siteleri için kullanışlı bir filtreye duyduğunu söyleyebiliriz .
 Sosyal medyadaki içerikler çok hızlı yayıldığı için bu temiz olayları kirli olanlardan ayırmak için platformlardaki spam içerikleri düzenli olarak filtrelemeye ve temizlemeye devam etmek gazetecilik ve doğruluk açısından önemlidir. Böylece, çeşitli bölümlerde istenmeyen posta içeriğini filtrelemek için makine öğrenimi eğitimi ile özelleştirilmiş yazılım uygulamaları devreye alınabilir.
-
-
-
 
 
 
@@ -25,10 +24,10 @@ Sosyal medyadaki içerikler çok hızlı yayıldığı için bu temiz olayları 
 
 Makine öğreniminin sosyal medya üzerindeki bir diğer katkısı , sosyal medya sitelerinin satış ve pazarlama bölümüne yardımcı olmasıdır. Sosyal medya pazarlama ve dijital reklamcılık için açıldığından, işletmelerin dijital pazarı stratejik olarak segmentlere ayırması önemlidir.
 Bu, gelir üretimini ve iş genişlemesini teşvik eder. Pazar segmentasyonu, sosyal medya platformlarının markaları daha etkili bir şekilde tanıtmasına yardımcı olurken, aynı zamanda sosyal medyadaki büyük verilerin rolünü güçlendirecek çok büyük miktarda veri üretir.
-
 Facebook, hangi reklamların hangi kullanıcılara gösterilmesi gerektiğine karar vermek için derin sinir ağlarını kullanır. Bu işi makinelere vererek, şirket kendisini emek yoğun faaliyetlerden kurtarabilir. Bunlar, verileri toplamayı, anlayışlı bir şekilde kümelemeyi ve kendi alanlarındaki üstünlüğü koruyacak şekilde verileri sunmayı içerir.
 
 4.Performans Ölçütleri
+
 Bu tür sitelerin büyümesini gösterebilecek bazı son derece değerli performans göstergelerini ortaya koyabilme yeteneği, sosyal medyadaki makine öğreniminin ve hatta genel makine öğreniminin ana avantajlarından biridir.
 Örneğin, etkileşim oranı, takipçiler ve yorumlar gibi yerleşik verileri kullanarak Instagram’daki işletmeler veya Influencerları, sitedeki etkinliklerini veya erişimlerini değerlendirebilir.
 Performans göstergeleri, özellikle sosyal medya platformlarında tam zamanlı istihdamın ortaya çıkmasıyla birlikte, sosyal medya hesaplarının başkalarıyla ne kadar etkili bir şekilde bağlantı kurduğunu değerlendirmek için kritik bir değer oldu .
@@ -36,8 +35,7 @@ Performans göstergeleri, özellikle sosyal medya platformlarında tam zamanlı 
 5. Ağ Önerileri
  
 Makine öğrenimi, doğal dil işleme (NLP) veya yapay zeka gibi diğer akıllı teknolojilerle birleştirildiğinde, sosyal medya kapasitesi açısından geliştirilebilir ve yükseltilebilir olduğunu biliyoruz.
- 
-Bu ikilinin en tipik örneklerinden biri ağ tavsiyesidir. ‘Önerilen arkadaşlar’dan ‘önerilen hesaplar’a kadar, ağ önerileri, insanların daha hızlı ve daha iyi bir şekilde bağlantı kurmasına ve iletişim kurmasına yardımcı olan sosyal medya platformlarının çarpıcı bir özelliğidir.
+ Bu ikilinin en tipik örneklerinden biri ağ tavsiyesidir. ‘Önerilen arkadaşlar’dan ‘önerilen hesaplar’a kadar, ağ önerileri, insanların daha hızlı ve daha iyi bir şekilde bağlantı kurmasına ve iletişim kurmasına yardımcı olan sosyal medya platformlarının çarpıcı bir özelliğidir.
 
 
 
